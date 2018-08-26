@@ -10,5 +10,10 @@ form i.fa {
 .form-control {
   position: relative;
  padding-left: 45px !important;
+}
 
+.LoginPage {
+  position: relative;
+  height: 100%;
+  margin-bottom: 213px;
 }

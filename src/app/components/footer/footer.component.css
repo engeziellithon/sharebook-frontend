@@ -15,3 +15,8 @@ h5,
 div {
   color: cornflowerblue;
 }
+
+.page-footer {
+position: absolute;
+width: 100%;
+}
